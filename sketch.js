@@ -260,6 +260,6 @@ function changeStatus(){
 }
 
 function redirect(){
-  window.location.href = "https://shubhamsamrat.github.io/Avenge?code=" + teamcode + "&playerName=" + playerName;
+  window.location.href = "https://shubhamsamrat.github.io/AvengeGame?code=" + teamcode + "&playerName=" + playerName;
 }
 
